@@ -1,0 +1,24 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i or -o; assuming --only paths...
+# On branch master
+# Changes to be committed:
+#	new file:   index.php
+#
+# Untracked files:
+#	.htaccess
+#	application/
+#	codeigniter3-translations-3.0.6/
+#	composer.json
+#	contributing.md
+#	imewvnnf.eeq.txt
+#	lar34s22.a1j.txt
+#	license.txt
+#	playcash.sql
+#	readme.rst
+#	resources/
+#	system/
+#	user_guide/
+#
+

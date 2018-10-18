@@ -1,0 +1,97 @@
+[12-May-2016 13:56:16 America/Chicago] PHP Fatal error:  Call to undefined function base_url() in /home/playc395/public_html/teste.php on line 7
+[12-May-2016 20:43:35 America/Chicago] PHP Fatal error:  Call to a member function retorna_estados() on null in /home/playc395/public_html/application/views/home/slider.php on line 21
+[21-May-2016 13:27:29 America/Chicago] PHP Fatal error:  Class 'CI_Encryotion' not found in /home/playc395/public_html/application/libraries/Play_Encryption.php on line 7
+[21-May-2016 13:59:37 America/Chicago] PHP Fatal error:  Call to undefined method Play_Encryption::encode() in /home/playc395/public_html/application/models/Usuarios.php on line 47
+[18-Jun-2016 10:10:23 America/Chicago] PHP Fatal error:  Call to undefined method CI_Session::destroy() in /home/playc395/public_html/application/controllers/Login.php on line 48
+[18-Jun-2016 10:14:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/playc395/public_html/application/controllers/Login.php on line 48
+[28-Jun-2016 19:36:41 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/playc395/public_html/application/helpers/perfil_time_helper.php on line 7
+[28-Jun-2016 19:38:23 America/Chicago] PHP Fatal error:  Call to undefined function atualiza_time() in /home/playc395/public_html/application/models/Usuarios.php on line 142
+[28-Jun-2016 19:39:07 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/playc395/public_html/application/helpers/perfil_time_helper.php on line 7
+[28-Jun-2016 19:41:39 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/playc395/public_html/application/helpers/perfil_time_helper.php on line 8
+[19-Mar-2017 19:20:47 America/Chicago] PHP Fatal error:  Call to a member function getReference() on null in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:20:53 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:20:58 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:25:20 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:33:01 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:33:11 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:34:00 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:34:26 America/Chicago] PHP Fatal error:  Class 'LogPagSeguro' not found in /home/playc395/public_html/application/controllers/Exemplo.php on line 243
+[19-Mar-2017 19:34:53 America/Chicago] PHP Fatal error:  Class 'LogPagSeguro' not found in /home/playc395/public_html/application/controllers/Exemplo.php on line 243
+[19-Mar-2017 19:35:27 America/Chicago] PHP Fatal error:  Class 'LogPagSeguro' not found in /home/playc395/public_html/application/controllers/Exemplo.php on line 243
+[19-Mar-2017 19:35:31 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:35:33 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:35:34 America/Chicago] PHP Fatal error:  Call to a member function getReference() on null in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:35:35 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:35:36 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:35:39 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:35:41 America/Chicago] PHP Fatal error:  Class 'LogPagSeguro' not found in /home/playc395/public_html/application/controllers/Exemplo.php on line 243
+[19-Mar-2017 19:35:42 America/Chicago] PHP Fatal error:  Class 'LogPagSeguro' not found in /home/playc395/public_html/application/controllers/Exemplo.php on line 243
+[19-Mar-2017 19:37:18 America/Chicago] PHP Fatal error:  Class 'LogPagSeguro' not found in /home/playc395/public_html/application/controllers/Exemplo.php on line 288
+[19-Mar-2017 19:42:42 America/Chicago] PHP Fatal error:  Class 'LogPagSeguro' not found in /home/playc395/public_html/application/controllers/Exemplo.php on line 243
+[19-Mar-2017 19:42:43 America/Chicago] PHP Fatal error:  Class 'LogPagSeguro' not found in /home/playc395/public_html/application/controllers/Exemplo.php on line 243
+[19-Mar-2017 19:42:44 America/Chicago] PHP Fatal error:  Class 'LogPagSeguro' not found in /home/playc395/public_html/application/controllers/Exemplo.php on line 243
+[19-Mar-2017 19:42:56 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:43:06 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:48:41 America/Chicago] PHP Fatal error:  Call to a member function getReference() on string in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[19-Mar-2017 19:48:45 America/Chicago] PHP Fatal error:  Call to a member function getReference() on null in /home/playc395/public_html/application/controllers/Exemplo.php on line 210
+[23-Apr-2017 15:03:50 America/Chicago] PHP Fatal error:  Call to a member function result() on null in /home/playc395/public_html/application/controllers/Payment.php on line 44
+[23-Apr-2017 15:04:08 America/Chicago] PHP Fatal error:  Call to a member function result() on array in /home/playc395/public_html/application/controllers/Payment.php on line 44
+[24-Apr-2017 09:46:09 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home/playc395/public_html/application/controllers/Payment.php on line 69
+[24-Apr-2017 09:46:36 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home/playc395/public_html/application/controllers/Payment.php on line 69
+[22-Jan-2018 16:42:21] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 37
+[22-Jan-2018 16:44:57] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 37
+[23-Jan-2018 01:46:15] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 37
+[23-Jan-2018 01:48:11] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 37
+[23-Jan-2018 01:48:56] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 38
+[23-Jan-2018 01:49:12] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 37
+[23-Jan-2018 01:49:40] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 37
+[23-Jan-2018 01:50:29] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 58
+[23-Jan-2018 01:51:26] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 58
+[23-Jan-2018 01:52:55] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 58
+[23-Jan-2018 01:53:25] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 37
+[23-Jan-2018 01:54:32] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 37
+[23-Jan-2018 02:01:13] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 37
+[23-Jan-2018 02:15:23] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 37
+[23-Jan-2018 02:16:43] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 38
+[23-Jan-2018 02:17:03] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 58
+[23-Jan-2018 02:19:04] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 64
+[23-Jan-2018 02:20:20] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 106
+[23-Jan-2018 02:21:37] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 140
+[23-Jan-2018 02:21:51] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 165
+[23-Jan-2018 02:22:52] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 172
+[23-Jan-2018 02:25:58] PHP Parse error:  syntax error, unexpected T_ARRAY in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 439
+[23-Jan-2018 02:26:20] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 482
+[23-Jan-2018 02:28:49] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 564
+[23-Jan-2018 02:29:16] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 649
+[23-Jan-2018 02:29:55] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 665
+[23-Jan-2018 02:30:29] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 670
+[23-Jan-2018 02:30:41] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 707
+[23-Jan-2018 02:30:54] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 723
+[23-Jan-2018 02:31:05] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 734
+[23-Jan-2018 02:31:26] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 767
+[23-Jan-2018 02:31:39] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 777
+[23-Jan-2018 02:31:50] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 793
+[23-Jan-2018 02:32:17] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 976
+[23-Jan-2018 02:32:38] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 1162
+[23-Jan-2018 02:33:07] PHP Parse error:  syntax error, unexpected T_ARRAY in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 1167
+[23-Jan-2018 02:33:21] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 1189
+[23-Jan-2018 02:33:40] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 1271
+[23-Jan-2018 02:33:59] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 1835
+[23-Jan-2018 02:34:18] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 1941
+[23-Jan-2018 02:34:38] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 2021
+[23-Jan-2018 02:34:50] PHP Parse error:  syntax error, unexpected ':' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 2044
+[23-Jan-2018 02:35:37] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 2101
+[23-Jan-2018 02:35:54] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 2103
+[23-Jan-2018 02:36:50] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 2119
+[23-Jan-2018 02:37:03] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 2141
+[23-Jan-2018 02:37:17] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 2169
+[23-Jan-2018 02:37:29] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 2207
+[23-Jan-2018 02:37:42] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 2229
+[23-Jan-2018 02:37:56] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 2251
+[23-Jan-2018 02:38:10] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 2282
+[23-Jan-2018 02:40:02] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/config/rest.php on line 46
+[23-Jan-2018 02:40:24] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/libraries/REST_Controller.php on line 644
+[23-Jan-2018 02:41:04] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/config/rest.php on line 46
+[23-Jan-2018 02:42:17] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/config/rest.php on line 46
+[23-Jan-2018 02:58:17] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 37
+[23-Jan-2018 03:32:10] PHP Parse error:  syntax error, unexpected '[' in /home/gswdc218/public_html/TIAGO/IDEAR/api/play/application/controllers/api/Example.php on line 37

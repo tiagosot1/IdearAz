@@ -1,0 +1,84 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   application/.htaccess
+#	new file:   application/cache/.htaccess
+#	new file:   application/cache/index.html
+#	new file:   application/config/autoload.php
+#	new file:   application/config/config.php
+#	new file:   application/config/constants.php
+#	new file:   application/config/database.php
+#	new file:   application/config/doctypes.php
+#	new file:   application/config/foreign_chars.php
+#	new file:   application/config/hooks.php
+#	new file:   application/config/index.html
+#	new file:   application/config/memcached.php
+#	new file:   application/config/migration.php
+#	new file:   application/config/mimes.php
+#	new file:   application/config/profiler.php
+#	new file:   application/config/routes.php
+#	new file:   application/config/smileys.php
+#	new file:   application/config/user_agents.php
+#	new file:   application/controllers/Login.php
+#	new file:   application/controllers/Main.php
+#	new file:   application/controllers/Welcome.php
+#	new file:   application/controllers/index.html
+#	new file:   application/core/index.html
+#	new file:   application/helpers/index.html
+#	new file:   application/hooks/index.html
+#	new file:   application/index.html
+#	new file:   application/language/english/index.html
+#	new file:   application/language/index.html
+#	new file:   application/language/pt_BR/calendar_lang.php
+#	new file:   application/language/pt_BR/date_lang.php
+#	new file:   application/language/pt_BR/db_lang.php
+#	new file:   application/language/pt_BR/email_lang.php
+#	new file:   application/language/pt_BR/form_validation_lang.php
+#	new file:   application/language/pt_BR/ftp_lang.php
+#	new file:   application/language/pt_BR/imglib_lang.php
+#	new file:   application/language/pt_BR/index.html
+#	new file:   application/language/pt_BR/migration_lang.php
+#	new file:   application/language/pt_BR/number_lang.php
+#	new file:   application/language/pt_BR/pagination_lang.php
+#	new file:   application/language/pt_BR/profiler_lang.php
+#	new file:   application/language/pt_BR/unit_test_lang.php
+#	new file:   application/language/pt_BR/upload_lang.php
+#	new file:   application/libraries/index.html
+#	new file:   application/libraries/js/bootstrap.min.js
+#	new file:   application/libraries/js/jquery.min.js
+#	new file:   application/logs/index.html
+#	new file:   application/models/index.html
+#	new file:   application/third_party/index.html
+#	new file:   application/views/errors/cli/error_404.php
+#	new file:   application/views/errors/cli/error_db.php
+#	new file:   application/views/errors/cli/error_exception.php
+#	new file:   application/views/errors/cli/error_general.php
+#	new file:   application/views/errors/cli/error_php.php
+#	new file:   application/views/errors/cli/index.html
+#	new file:   application/views/errors/html/error_404.php
+#	new file:   application/views/errors/html/error_db.php
+#	new file:   application/views/errors/html/error_exception.php
+#	new file:   application/views/errors/html/error_general.php
+#	new file:   application/views/errors/html/error_php.php
+#	new file:   application/views/errors/html/index.html
+#	new file:   application/views/errors/index.html
+#	new file:   application/views/index.html
+#	new file:   application/views/welcome.php
+#	new file:   index.php
+#
+# Untracked files:
+#	.htaccess
+#	codeigniter3-translations-3.0.6/
+#	composer.json
+#	contributing.md
+#	imewvnnf.eeq.txt
+#	license.txt
+#	playcash.sql
+#	readme.rst
+#	resources/
+#	system/
+#	user_guide/
+#
+

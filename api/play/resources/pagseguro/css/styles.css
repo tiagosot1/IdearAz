@@ -1,0 +1,94 @@
+.paymentMethodGroup{
+	display:none;
+}
+.bank-flag{
+	display:inline-block;
+	width:50px;
+	height:50px;
+	overflow:hidden;
+	text-indent:-999px;
+	background:no-repeat center center;
+	border:solid 1px #AAA;
+	border-radius:0.5em;
+	margin:0 0.8em;
+	cursor:pointer;
+	background-color:#FFF;
+}
+
+#cartItemHidden{
+	display:none;
+}
+
+#installmentsWrapper{
+	display:none;
+}
+
+#paymentMethodLoading{
+	display:none;
+}
+
+#holderData{
+	display:none;
+}
+
+
+#cardBrand{
+	background:no-repeat right 10px;
+}
+
+#cardBrand[brand='visa']{ background-image:url('../resources/pagseguro/images/visa.png'); }
+#cardBrand[brand='mastercard']{ background-image:url('../resources/pagseguro/images/mastercard.png'); }
+#cardBrand[brand='amex']{ background-image:url('../resources/pagseguro/images/amex.png'); }
+#cardBrand[brand='diners']{ background-image:url('../resources/pagseguro/images/diners.png'); }
+#cardBrand[brand='aura']{ background-image:url('../resources/pagseguro/images/aura.png'); }
+
+
+
+
+.bank-flag:hover{
+	border-color:#000;
+}
+
+.bank-flag.bancodobrasil{ background-image:url('../resources/pagseguro/images/bancodobrasil.png'); }
+.bank-flag.itau{ background-image:url('../resources/pagseguro/images/itau.png'); }
+.bank-flag.bradesco{ background-image:url('../resources/pagseguro/images/bradesco.png'); }
+.bank-flag.banrisul{ background-image:url('../resources/pagseguro/images/banrisul.png'); }
+.bank-flag.hsbc{ background-image:url('../resources/pagseguro/images/hsbc.png'); }
+
+
+.errors{
+	font-size:1.5em;
+	color:red;
+	padding:2em;
+}
+.success{
+	color:green;
+}
+
+.form-group input[type="checkbox"] {
+    display: none;
+}
+
+.form-group input[type="checkbox"] + .btn-group > label span {
+    width: 20px;
+}
+
+.form-group input[type="checkbox"] + .btn-group > label span:first-child {
+    display: none;
+}
+.form-group input[type="checkbox"] + .btn-group > label span:last-child {
+    display: inline-block;   
+}
+
+.form-group input[type="checkbox"]:checked + .btn-group > label span:first-child {
+    display: inline-block;
+}
+.form-group input[type="checkbox"]:checked + .btn-group > label span:last-child {
+    display: none;   
+}
+.btn span.glyphicon {    			
+	opacity: 0;				
+}
+.btn.active span.glyphicon {				
+	opacity: 1;				
+}
